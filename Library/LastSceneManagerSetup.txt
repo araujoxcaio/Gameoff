@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/ToonBot/Robot Test Scene(Free).unity
+  isLoaded: 1
+  isActive: 0
